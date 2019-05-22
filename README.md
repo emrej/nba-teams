@@ -1,4 +1,5 @@
 # nba-teams
+npx vue-cli-service build --target wc --name nba-teams
 
 ## Project setup
 ```
